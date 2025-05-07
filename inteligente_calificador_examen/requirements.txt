@@ -1,0 +1,7 @@
+-----ALERT-----
+Hola! Este es un archivo de requisitos para un proyecto de Python. Asegúrate de que el contenido sea correcto y no contenga información sensible antes de compartirlo.
+Hola
+
+# requirements.txt
+# This file contains the list of packages required for the project.
+Esta es una prueba de un archivo de requisitos para un proyecto de Python.
