@@ -13,6 +13,8 @@ def preprocess_image(image_path):
 
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
+    
+
     # Binarización adaptativa
     thresh = cv2.adaptiveThreshold(
         gray, 255, cv2.ADAPTIVE_THRESH_MEAN_C,
