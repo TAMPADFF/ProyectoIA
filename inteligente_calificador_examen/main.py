@@ -27,5 +27,5 @@ def procesar_examen_con_ocr(image_path, modelo_llm="phi3:latest", dificultad=5):
 
 # Ejemplo de uso
 if __name__ == "__main__":
-    ruta = "../examenes/EXAMENES_MAY/EXAMEN1/2.jpg"
+    ruta = "../examenes/ExamenesCarlos/examen3/hoja1.jpeg"
     procesar_examen_con_ocr(ruta, modelo_llm="phi3:latest", dificultad=6)
