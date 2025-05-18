@@ -5,3 +5,7 @@ Hola
 # requirements.txt
 # This file contains the list of packages required for the project.
 Esta es una prueba de un archivo de requisitos para un proyecto de Python.
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-readers-file
